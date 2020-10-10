@@ -1,7 +1,7 @@
 # Engineering Labs
 Engineering Labs is a place that can store and monitor your field operations team.
 
-# Description
+## Description
 In civil consultant project especially in the field, there are a number of roles are working:
 1. Resident Engineering (strategic)
 2. Chief Inspector (field operation)
@@ -19,5 +19,14 @@ Sometimes in a new project needed the documents from the previous one, but it's 
 
 From that, project progress could be delayed cause of the low quality of work and got a bad sight from the project owner.
 
-# Wireframe
+## Feature
+* Login
+* Register
+* Create new project
+* Preview Project
+* Add daily report
+* Upload document project
+
+## Wireframe
+![wireframe](https://raw.githubusercontent.com/handikaadicky/EngineeringLabs/master/images/wireframe.png)
 
