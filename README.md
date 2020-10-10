@@ -24,7 +24,8 @@ From that, project progress could be delayed cause of the low quality of work an
 * Register
 * Create new project
 * Preview Project
-* Add daily report
+* Add day report
+* Show day details
 * Upload document project
 
 ## Wireframe
