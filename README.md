@@ -2,5 +2,5 @@
 ## Task List
 - [x] Login Page
 - [x] Register Page
-- [] DashboardPage
-- [] DetailDayPage
+- [ ] DashboardPage
+- [ ] DetailDayPage
